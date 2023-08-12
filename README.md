@@ -38,6 +38,17 @@ Output: Serial Display
 
 Project Setup:
 
+Demo Setup:
+
+Website interface-
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/1e457984-f15c-4734-98d7-d12e001b6bdb)
+
+
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/77b041cd-5b74-4269-9574-0db34bbee628)
+
+
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/bb294b28-e098-4ac7-9d37-4ab15f2cdd53)
 
 
