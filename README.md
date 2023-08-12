@@ -34,3 +34,11 @@ Code:
 Output: Serial Display
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/eec8facd-1807-43b4-8c95-95b36f1d2e0f)
+
+
+Project Setup:
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/bb294b28-e098-4ac7-9d37-4ab15f2cdd53)
+
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/b2b73d47-ecd2-4dc9-93a6-0c519c5d6f8a)
