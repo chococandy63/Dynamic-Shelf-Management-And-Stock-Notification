@@ -1,16 +1,29 @@
 # Dynamic-Shelf-Management-And-Stock-Notification 
 
+Prerequisites:
+- Arduino Uno
+- USB 2.0 A-B Cable
+- Arduino IDE
+- Ultrasonic Distance Sensor
+- Wifi Module(ESP8266)
+- Jumper Wires
+- AWS IOT account
 
-Setting up Arduino IDE on Linux:
+Setting up Arduino IDE on Linux: 
 
-Step 1: To give the necessary permissions to access the device. Add your user to a specific group (e.g., "dialout" or "uucp") that has access to serial devices.
+Step 1: Install Arduino IDE- `yay -S arduino-ide-bin`
+
+Step 2: To give the necessary permissions to access the device. Add your user to a specific group (e.g., "dialout" or "uucp") that has access to serial devices.
 
 Run `sudo usermod -aG uucp chococandy` to add the user `chococandy` that has access to serial device.
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/7d6a32e9-1d5d-430b-a38d-4d0cbbcbe2a1)
 
-Step 2: After adding yourself to the group, log out and log back in for the changes to take effect.
+Step 3: After adding yourself to the group, log out and log back in for the changes to take effect.
 
+Step 4: 
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/ca2bcd7d-7650-49a1-8f81-b2bd0edbab62)
 
 
 Code:
