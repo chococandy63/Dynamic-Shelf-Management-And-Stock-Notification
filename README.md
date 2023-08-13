@@ -42,6 +42,36 @@ Step 1: Go to File > Prefernces and add the following URL in the "Additional Boa
 
 Step 2: Go to Tools > Board > Board Manager, search for "esp8266" and install the package to include the necessary libraries for the wifi module.
 
+Testing WiFi Connectivity
+
+Step 1: Upload an empty sketch and open the Serial Monitor
+
+Step 2: Set the Baud rate to 115200 as it is the baud rate of the ESP8266 used and also select "Both NL & CR" from the dropdown.
+
+Step 3: Type "AT" and wait for the Serail monitor to display "OK" to see if it is functioning properly
+
+Step 4: Use the following commands one by one to connect to the preferred WiFi
+
+```terminal
+AT+CWMODE=1
+```
+Sets our device in client mode.
+
+```terminal
+AT+CWLAP
+```
+Displays all the available WiFi networks.
+__NOTE:__ Only 2.4 GHz wifi networks are compatible.
+
+```terminal
+AT+CWJAP="YOUR_SSID","YOUR_PASSWORD"
+```
+Connects to the specified WiFi network.
+
+```terminal
+AT+CIFSR
+```
+Returns the IP adress of the network that the device is connected to.
 
 Project Setup:
 
