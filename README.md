@@ -26,6 +26,7 @@ Step 4:
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/ca2bcd7d-7650-49a1-8f81-b2bd0edbab62)
 
 
+
 Code:
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/64938d83-49fe-4b6c-9f0f-1cec74101002)
@@ -34,6 +35,12 @@ Code:
 Output: Serial Display
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/eec8facd-1807-43b4-8c95-95b36f1d2e0f)
+
+Installing library for ESP8266
+
+Step 1: Go to File > Prefernces and add the following URL in the "Additional Boards Manager URLs" field: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Step 2: Go to Tools > Board > Board Manager, search for "esp8266" and install the package to include the necessary libraries for the wifi module.
 
 
 Project Setup:
