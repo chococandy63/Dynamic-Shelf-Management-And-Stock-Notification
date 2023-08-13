@@ -9,6 +9,10 @@ Prerequisites:
 - Jumper Wires
 - AWS IOT account
 
+## Theory
+
+MQTT- type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
+
 Setting up Arduino IDE on Linux: 
 
 Step 1: Install Arduino IDE- `yay -S arduino-ide-bin`
@@ -72,6 +76,17 @@ Connects to the specified WiFi network.
 AT+CIFSR
 ```
 Returns the IP adress of the network that the device is connected to.
+
+
+### Connecting to AWS IOT
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/2131d811-0d77-4995-b14d-b44dc079cc67)
+
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/73d97b7c-5a1b-4452-8b66-f12bac9468fc)
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/f5fd77af-404c-478b-93d6-6833fbd1554f)
+
 
 Project Setup:
 
