@@ -1,6 +1,6 @@
 # Dynamic-Shelf-Management-And-Stock-Notification 
 
-Prerequisites:
+## Prerequisites:
 - Arduino Uno
 - USB 2.0 A-B Cable
 - Arduino IDE
@@ -13,7 +13,7 @@ Prerequisites:
 
 MQTT- type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
 
-Setting up Arduino IDE on Linux: 
+## Setting up Arduino IDE on Linux: 
 
 Step 1: Install Arduino IDE- `yay -S arduino-ide-bin`
 
@@ -31,7 +31,7 @@ Step 4:
 
 
 
-Code:
+## Code:
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/64938d83-49fe-4b6c-9f0f-1cec74101002)
 
@@ -40,13 +40,13 @@ Output: Serial Display
 
 ![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/eec8facd-1807-43b4-8c95-95b36f1d2e0f)
 
-Installing library for ESP8266
+## Installing library for ESP8266
 
 Step 1: Go to File > Prefernces and add the following URL in the "Additional Boards Manager URLs" field: https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Step 2: Go to Tools > Board > Board Manager, search for "esp8266" and install the package to include the necessary libraries for the wifi module.
 
-Testing WiFi Connectivity
+## WiFi Connectivity
 
 Step 1: Upload an empty sketch and open the Serial Monitor
 
@@ -65,7 +65,7 @@ Sets our device in client mode.
 AT+CWLAP
 ```
 Displays all the available WiFi networks.
-__NOTE:__ Only 2.4 GHz wifi networks are compatible.
+**NOTE:** Only 2.4 GHz wifi networks are compatible.
 
 ```terminal
 AT+CWJAP="YOUR_SSID","YOUR_PASSWORD"
@@ -76,6 +76,8 @@ Connects to the specified WiFi network.
 AT+CIFSR
 ```
 Returns the IP adress of the network that the device is connected to.
+
+Step 5: To automate the above process everytime we upload the sketch file, go to Sketch > Include Libraries > Manage Libraries and install Wifiesp
 
 
 ### Connecting to AWS IOT
@@ -88,11 +90,11 @@ Returns the IP adress of the network that the device is connected to.
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/f5fd77af-404c-478b-93d6-6833fbd1554f)
 
 
-Project Setup:
+## Project Setup:
 
 Demo Setup:
 
-Website interface-
+## Website interface-
 
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/1e457984-f15c-4734-98d7-d12e001b6bdb)
 
