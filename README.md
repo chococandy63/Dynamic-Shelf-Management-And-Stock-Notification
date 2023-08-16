@@ -9,9 +9,17 @@
 - Jumper Wires
 - ThingSpeak Account
 
+## How the sensor code works?
+
+1. **WiFi Connectivity**: For connecting the Arduino Uno board with the ESP8266 WiFi module, WiFiESP library is used and communication between the WiFi module and the Arduino Uno board is done using Software Serial pins defined in our code file.
+2. The first segment of the code in the loop function is used to measure the distance betweeen the sensor and the item towards which the sensor is facing.
+3. Rest of the code is used for implementing a counter which increases the counter when an object moves inside a box or a shelf, and decreases the counter when an object moves out.
+   
+
 ## Theory
 
 MQTT- type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
+
 
 ## Setting up Arduino IDE on Linux: 
 
