@@ -4,10 +4,10 @@
 - Arduino Uno
 - USB 2.0 A-B Cable
 - Arduino IDE
-- Ultrasonic Distance Sensor
+- Ultrasonic Distance Sensor x3
 - Wifi Module(ESP8266)
 - Jumper Wires
-- AWS IOT account
+- ThingSpeak Account
 
 ## Theory
 
@@ -77,8 +77,17 @@ AT+CIFSR
 ```
 Returns the IP adress of the network that the device is connected to.
 
-Step 5: To automate the above process everytime we upload the sketch file, go to Sketch > Include Libraries > Manage Libraries and install Wifiesp
+## Required Libraries
 
+Go to Sketch > Include Libraries > Manage Libraries and install the following:
+- Wifiesp
+- ThingSpeak
+ 
+## Connecting to ThingSpeak IoT
+
+- Make an account
+- Create a channel and add 2 fields for distance and counter
+- Copy the WRITE API key and the channel ID.
 
 ### Connecting to AWS IOT
 
