@@ -87,7 +87,7 @@ Go to Sketch > Include Libraries > Manage Libraries and install the following:
 
 - Make an account
 - Create a channel and add 2 fields for distance and counter
-- Copy the WRITE API key and the channel ID.
+- Copy the WRITE API key and the channel ID for them to be used in the code.
 
 ### Connecting to AWS IOT
 
