@@ -202,6 +202,10 @@ Demo Setup:
 
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/b2b73d47-ecd2-4dc9-93a6-0c519c5d6f8a)
 
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/99fbe15a-30dd-45f0-96cd-4faa17da9c5a)
+
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/47dcf7e6-ff4c-4550-82e6-808025ae6ffc)
+
 
 ## Website Link
 
