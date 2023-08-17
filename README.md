@@ -1,5 +1,11 @@
 # Dynamic-Shelf-Management-And-Stock-Notification 
 
+### Problem Statement 
+
+### Solution
+
+
+
 ## Prerequisites:
 - Arduino Uno
 - USB 2.0 A-B Cable
@@ -18,7 +24,7 @@
 
 ## Theory
 
-MQTT- type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
+MQTT- Type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
 
 
 ## Setting up Arduino IDE on Linux: 
@@ -97,15 +103,9 @@ Go to Sketch > Include Libraries > Manage Libraries and install the following:
 - Create a channel and add 2 fields for distance and counter
 - Copy the WRITE API key and the channel ID for them to be used in the code.
 
-## ThingSpeak IoT
-
-![ThingSpeak1](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/635e932d-4a69-4181-8939-cf880d94b68c)
-![ThingSpeak2](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/e37b1920-997d-4852-a31f-f00d6ea3d68a)
-
-
 ## FRONT-END
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
