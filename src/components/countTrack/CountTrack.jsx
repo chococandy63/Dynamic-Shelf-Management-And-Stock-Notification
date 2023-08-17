@@ -4,6 +4,8 @@ import './countTrack.css'
 import Navbar from "../navbar/Navbar";
 const CountTrack = () => {
   const [availableBoxes, setAvailableBoxes] = useState(1);
+
+  //Feature yet to be implemented. Realtime updation.
   useEffect(() => {
     // Function to fetch data from the API and update the state
     const fetchData = async () => {
