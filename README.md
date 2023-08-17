@@ -205,6 +205,9 @@ Demo Setup:
 
 ## Website interface-
 
+![ShelfSense](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/b38586a5-23ab-4031-b04e-1e2382e88216)
+
+
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/700b5e2d-7222-490e-8094-96d721dcde0c)
 
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/a66be135-e141-431e-824e-dd896907106f)
