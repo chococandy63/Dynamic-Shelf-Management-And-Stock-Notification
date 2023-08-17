@@ -35,24 +35,29 @@ Step 2: To give the necessary permissions to access the device. Add your user to
 
 Run `sudo usermod -aG uucp chococandy` to add the user `chococandy` that has access to serial device.
 
-![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/7d6a32e9-1d5d-430b-a38d-4d0cbbcbe2a1)
+
+
 
 Step 3: After adding yourself to the group, log out and log back in for the changes to take effect.
 
-Step 4: 
+Step 4: ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/eefd34d5-0ec4-4ad7-810e-f214dce3f819)
 
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/ca2bcd7d-7650-49a1-8f81-b2bd0edbab62)
+
+
 
 
 
 ## Code:
 
-![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/64938d83-49fe-4b6c-9f0f-1cec74101002)
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/1cbd1013-f56b-4450-ac5d-8f3b1c2028e6)
+
+
 
 
 Output: Serial Display
 
-![image](https://github.com/chococandy63/walmart-product-detector/assets/79960426/eec8facd-1807-43b4-8c95-95b36f1d2e0f)
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/f95dcddb-2cb5-4c23-935d-e0353cf7845e)
+
 
 ## Installing library for ESP8266
 
@@ -106,10 +111,9 @@ Go to Sketch > Include Libraries > Manage Libraries and install the following:
 
 ## ThingSpeak IoT
 
-![ThingSpeak1](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/a424bd99-5b8d-4294-83b2-f59b48663009)
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/dabad210-f551-4d0e-8d50-5ea1f0c5822c)
 
-![ThingSpeak2](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/9f561320-f80e-40c7-858e-584877f5921e)
-
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/b45040af-e221-434f-9c31-3b90d2b0d0ef)
 
 ## FRONT-END
 
@@ -190,21 +194,17 @@ Demo Setup:
 
 ## Website interface-
 
-<img width="1438" alt="Screenshot 2023-08-17 at 9 09 54 PM" src="https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/94912395/540e333b-1990-4250-a142-8e36989eb8e9">
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/700b5e2d-7222-490e-8094-96d721dcde0c)
 
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/a66be135-e141-431e-824e-dd896907106f)
 
-<img width="1439" alt="Screenshot 2023-08-17 at 9 10 05 PM" src="https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/94912395/d59b2eee-6a3e-460d-af9d-ae9e4c4ffa88">
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/b6913ec0-b7d6-47b9-8ed6-05027c19bbd3)
 
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/8e60fb32-c36b-49ea-9b73-38e543513b0a)
 
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/ae664655-07c5-4474-a900-bf3af0168afb)
 
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/bb294b28-e098-4ac7-9d37-4ab15f2cdd53)
-
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/b2b73d47-ecd2-4dc9-93a6-0c519c5d6f8a)
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/99fbe15a-30dd-45f0-96cd-4faa17da9c5a)
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/47dcf7e6-ff4c-4550-82e6-808025ae6ffc)
+![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/d035cde1-841d-4500-9203-e9c075252831)
 
 
 ## Website Link
