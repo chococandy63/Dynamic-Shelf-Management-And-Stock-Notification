@@ -97,6 +97,12 @@ Go to Sketch > Include Libraries > Manage Libraries and install the following:
 - Create a channel and add 2 fields for distance and counter
 - Copy the WRITE API key and the channel ID for them to be used in the code.
 
+## ThingSpeak IoT
+
+![ThingSpeak1](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/635e932d-4a69-4181-8939-cf880d94b68c)
+![ThingSpeak2](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/71835184/e37b1920-997d-4852-a31f-f00d6ea3d68a)
+
+
 ## FRONT-END
 
 # Getting Started with Create React App
