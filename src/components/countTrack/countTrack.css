@@ -1,0 +1,53 @@
+.stockbox
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.product_card
+{
+    background-color:#CEDDEF ;
+    width: 225px;
+    height: 292px;
+    border-radius:10px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.circles
+{
+    margin-left:12px;
+}
+.warehouse_text, .product_name
+{
+  
+    display: flex;
+    justify-content: center;
+}
+.product_name
+{
+    margin-top:-20px ;
+    font-size: 15px;
+}
+.warehouse_text
+{
+    font-size: 10px;
+}
+.order_button
+{
+    background-color: #1F3C88;
+    color:white;
+    border: none;
+    border-radius: 25px;
+    height: 30px;
+    width:80px;
+    margin-top: 5px;
+    margin-left: 32.5%;
+}
+
+@media screen and (max-width: 768px)
+{
+    .product_card
+    {
+        margin-left: 85px;
+    }
+}

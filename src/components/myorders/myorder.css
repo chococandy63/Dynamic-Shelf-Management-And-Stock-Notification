@@ -1,0 +1,50 @@
+.orders
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.order_card
+{
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    background-color:#CEDDEF ;
+    width: 225px;
+    height: 292px;
+    border-radius:10px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.product
+{
+    color:#1F3C88;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.price
+{
+    font-size: 20px;
+    margin-top: -2px;
+}
+.orderdate
+{
+    font-size: 12px;
+}
+.statusdiv
+{
+    background-color: #1F3C88;
+    color: white;
+    border-radius: 50px;
+    width:180px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 768px)
+{
+    .order_card
+    {
+        margin-left: 85px;
+    }
+}

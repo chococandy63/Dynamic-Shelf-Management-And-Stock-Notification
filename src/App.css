@@ -1,0 +1,26 @@
+.App {
+  background-color: #CEDDEF;
+  height: 110vh;
+  margin-top: -20px;
+}
+.appnav
+{
+  z-index: 1000;
+  position: absolute;
+  width:100%;
+  margin-top: 20px;
+}
+
+.apptext
+{
+  position: absolute;
+  margin-top: 210px;
+  margin-left: 70px;
+  font-size: 80px;
+  color:#070D59;
+  line-height: 10px;
+}
+
+
+
+
