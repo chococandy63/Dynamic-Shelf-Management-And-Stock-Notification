@@ -105,11 +105,11 @@ Demo Setup:
 
 ## Website interface-
 
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/1e457984-f15c-4734-98d7-d12e001b6bdb)
+<img width="1438" alt="Screenshot 2023-08-17 at 9 09 54 PM" src="https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/94912395/540e333b-1990-4250-a142-8e36989eb8e9">
 
 
+<img width="1439" alt="Screenshot 2023-08-17 at 9 10 05 PM" src="https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/94912395/d59b2eee-6a3e-460d-af9d-ae9e4c4ffa88">
 
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/77b041cd-5b74-4269-9574-0db34bbee628)
 
 
 ![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/bb294b28-e098-4ac7-9d37-4ab15f2cdd53)
