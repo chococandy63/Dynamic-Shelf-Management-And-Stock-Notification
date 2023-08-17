@@ -97,14 +97,6 @@ Go to Sketch > Include Libraries > Manage Libraries and install the following:
 - Create a channel and add 2 fields for distance and counter
 - Copy the WRITE API key and the channel ID for them to be used in the code.
 
-### Connecting to AWS IOT
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/2131d811-0d77-4995-b14d-b44dc079cc67)
-
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/73d97b7c-5a1b-4452-8b66-f12bac9468fc)
-
-![image](https://github.com/chococandy63/Dynamic-Shelf-Management-And-Stock-Notification/assets/79960426/f5fd77af-404c-478b-93d6-6833fbd1554f)
 
 
 ## Project Setup:
