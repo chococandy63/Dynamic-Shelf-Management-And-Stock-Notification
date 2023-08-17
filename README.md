@@ -3,7 +3,7 @@
 ### Problem Statement 
 
 ### Solution
-
+Project Name: Shelf-Sense
 
 
 ## Prerequisites:
@@ -212,3 +212,5 @@ Demo Setup:
 [https://shelf-sense.netlify.app/](https://shelf-sense.netlify.app/)
 
 [Presentation](https://www.canva.com/design/DAFrzmtATuI/-q9m0b0lH4m2YrmqSTaSvQ/view)
+
+[Youtube-link-for-IoT-Model-Demonstration](https://youtu.be/Rdn7W__WYMI)
