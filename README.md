@@ -1,5 +1,8 @@
 # Dynamic-Shelf-Management-And-Stock-Notification 
 
+Website Link: https://shelf-sense.netlify.app/  
+Presentation: https://www.canva.com/design/DAFrzmtATuI/-q9m0b0lH4m2YrmqSTaSvQ/view
+
 ## Problem Statement 
 
 In various retail stores like Walmart, maintaining optimal stock levels is very important to meet customer demands which leads to a positive shopping experience. Empty shelves brings about customer dissatisfaction and results in a loss of sales opportunities.
@@ -11,11 +14,11 @@ In various retail stores like Walmart, maintaining optimal stock levels is very 
 The solution involves IoT technology to monitor the number of products on store shelves in real time using ultrasonic sensors placed on shelves which continuously monitors the product quantity and updates it on the dashboard to be used by the staff in real-time. Additionally, the customers can receive notifications for the specific products they are interested in, allowing them to receive alerts when some product in back in stock.
 
 ## Tech Stack:
-Arduino Uno: serves as the central control unit for the IoT system.
-Ultrasonic Distance Sensors: Used as counters and also to measure the distance between the top of the shelf and the top of the products on the shelf which is required for an estimation of whether product quantity goes below a threshold value.
-WiFi Module (ESP8266): Enables transmission of data read by the sensors to a database for it's storage and monitoring.
-Cloud Services: ThingSpeak is used to store and visualize the data from the sensors.
-ReactJS: used for building the frontend of the ShelfSense website.
+- Arduino Uno: serves as the central control unit for the IoT system.
+- Ultrasonic Distance Sensors: Used as counters and also to measure the distance between the top of the shelf and the top of the products on the shelf which is required for an estimation of whether product quantity goes below a threshold value.
+- WiFi Module (ESP8266): Enables transmission of data read by the sensors to a database for it's storage and monitoring.
+- Cloud Services: ThingSpeak is used to store and visualize the data from the sensors.
+- ReactJS: used for building the frontend of the ShelfSense website.
 
 ## Conclusion
 This project improves inventory management and enhances the overall shopping experience for customers. Some additional features such as data analysis that finds trends and patterns in the data read by the sensors which can be used for effective prediction of when a specific product goes out of stock, can be integrated within the application.
@@ -33,14 +36,8 @@ This project improves inventory management and enhances the overall shopping exp
 
 1. **WiFi Connectivity**: For connecting the Arduino Uno board with the ESP8266 WiFi module, WiFiESP library is used and communication between the WiFi module and the Arduino Uno board is done using Software Serial pins defined in our code file.
 2. The first segment of the code in the loop function is used to measure the distance betweeen the sensor and the item towards which the sensor is facing.
-3. Rest of the code is used for implementing a counter which increases the counter when an object moves inside a box or a shelf, and decreases the counter when an object moves out.
+3. Rest of the sensor code is used for implementing a counter which increases the counter when an object moves inside a box or a shelf, and decreases the counter when an object moves out.
    
-
-## Theory
-
-MQTT- Type of a protocol similar to http which is used to send IOT data to any endpoint(database or website)
-
-
 ## Setting up Arduino IDE on Linux: 
 
 Step 1: Install Arduino IDE- `yay -S arduino-ide-bin`
